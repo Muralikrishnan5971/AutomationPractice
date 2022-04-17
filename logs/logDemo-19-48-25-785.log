@@ -1,0 +1,15 @@
+19:48:06.874 [main] ERROR seleniumBasic.Log4jDemo - This is error
+19:48:25.775 [main] INFO  seleniumBasic.Log4jDemo - This is a demo message
+19:48:25.779 [main] DEBUG seleniumBasic.Log4jDemo - This is debug
+19:48:25.780 [main] FATAL seleniumBasic.Log4jDemo - This is fatal
+19:48:25.780 [main] ERROR seleniumBasic.Log4jDemo - This is error
+19:48:25.780 [main] INFO  seleniumBasic.Log4jDemo - This is a demo message
+19:48:25.780 [main] DEBUG seleniumBasic.Log4jDemo - This is debug
+19:48:25.781 [main] FATAL seleniumBasic.Log4jDemo - This is fatal
+19:48:25.781 [main] ERROR seleniumBasic.Log4jDemo - This is error
+19:48:25.781 [main] INFO  seleniumBasic.Log4jDemo - This is a demo message
+19:48:25.781 [main] DEBUG seleniumBasic.Log4jDemo - This is debug
+19:48:25.782 [main] FATAL seleniumBasic.Log4jDemo - This is fatal
+19:48:25.782 [main] ERROR seleniumBasic.Log4jDemo - This is error
+19:48:25.783 [main] INFO  seleniumBasic.Log4jDemo - This is a demo message
+19:48:25.783 [main] DEBUG seleniumBasic.Log4jDemo - This is debug

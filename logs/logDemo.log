@@ -1,0 +1,2 @@
+19:48:25.783 [main] FATAL seleniumBasic.Log4jDemo - This is fatal
+19:48:25.788 [main] ERROR seleniumBasic.Log4jDemo - This is error

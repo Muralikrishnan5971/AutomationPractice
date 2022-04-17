@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [regression]">
+  <test name="Test Level 01">
+    <classes>
+      <class name="testNGframework.FirstTest"/>
+    </classes>
+  </test> <!-- Test Level 01 -->
+  <test name="Test Level 02">
+    <classes>
+      <class name="testNGframework.SecondTest"/>
+    </classes>
+  </test> <!-- Test Level 02 -->
+</suite> <!-- Failed suite [regression] -->
