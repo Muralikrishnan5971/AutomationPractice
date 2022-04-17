@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="14879" started-at="2022-03-24T17:59:04Z" finished-at="2022-03-24T17:59:18Z">
+  <suite name="Default suite" duration-ms="20449" started-at="2022-04-17T11:29:55Z" finished-at="2022-04-17T11:30:15Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="14879" started-at="2022-03-24T17:59:04Z" finished-at="2022-03-24T17:59:18Z">
-      <class name="com.yatra.GetDropDownOptions">
-        <test-method status="PASS" signature="getAmazonAllSearchOptions()[pri:0, instance:com.yatra.GetDropDownOptions@57829d67]" name="getAmazonAllSearchOptions" duration-ms="14842" started-at="2022-03-24T23:29:04Z" finished-at="2022-03-24T23:29:18Z">
+    <test name="Default test" duration-ms="20449" started-at="2022-04-17T11:29:55Z" finished-at="2022-04-17T11:30:15Z">
+      <class name="automationScenarios.FlipKartAddToCart">
+        <test-method status="PASS" signature="verifyAddToCartInFlipkart()[pri:0, instance:automationScenarios.FlipKartAddToCart@57829d67]" name="verifyAddToCartInFlipkart" duration-ms="20418" started-at="2022-04-17T16:59:55Z" finished-at="2022-04-17T17:00:15Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- getAmazonAllSearchOptions -->
-      </class> <!-- com.yatra.GetDropDownOptions -->
+        </test-method> <!-- verifyAddToCartInFlipkart -->
+      </class> <!-- automationScenarios.FlipKartAddToCart -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
