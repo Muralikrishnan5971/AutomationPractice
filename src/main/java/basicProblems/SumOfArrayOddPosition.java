@@ -1,6 +1,7 @@
 package basicProblems;
 
 import java.util.Arrays;
+import java.util.Collections;
 
 public class SumOfArrayOddPosition {
 
@@ -76,6 +77,8 @@ public class SumOfArrayOddPosition {
 
 	public static int findTheLargestNumber(int[] a, int i) {
 
+//		Collections.sort(a);
+		
 		Arrays.sort(a); // sorts the array collection in ascending order
 
 		return a[i - 1];
